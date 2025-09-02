@@ -40,3 +40,6 @@ Project description.
 - Improvement made on 2025-10-14
 
 <!-- Update 67 -->
+
+## Update 1
+- Improvement made on 2025-09-03
