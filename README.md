@@ -9,3 +9,6 @@ Project description.
 <!-- Update 14 -->
 
 <!-- Update 17 -->
+
+## Update 24
+- Improvement made on 2025-09-18
